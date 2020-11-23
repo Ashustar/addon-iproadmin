@@ -1,7 +1,7 @@
 {
   "name": "IPRO Admin",
   "version": "dev",
-  "slug": "sonweb",
+  "slug": "IPRO Core",
   "description": "Centrally manage all your IPro Smart devices",
   "url": "https://github.com/Ashustar/addon-iproadmin",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:9541]",
