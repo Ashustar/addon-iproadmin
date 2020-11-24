@@ -20,8 +20,8 @@ RUN \
     && apk add --no-cache --virtual .build-dependencies \
         git=2.26.2-r0 \
     \
-    && git clone --branch v1.7.0 --depth=1 \
-        https://github.com/reloxx13/TasmoAdmin.git /var/www/tasmoadmin \
+    && git clone --branch v1.1.1 --depth=1 \
+        https://github.com/Ashustar/iproAdmin.git /var/www/tasmoadmin \
     \
     && apk del --no-cache --purge .build-dependencies \
     \
